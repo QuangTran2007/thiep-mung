@@ -1,6 +1,6 @@
 const nameGirl = 'Em';
 const giftUrl = 'http://nodemy.vn';
-const eventName = 'Chúc Mừng 20-10 nha Phương';
+const eventName = 'Chúc mừng 20-10 nha Phương';
 const titleCard = 'Quăng vô mặt mày ít quà';
 const contentCard = 'Chúc 20/10 vui vẻ . cho xin 5k luôn nha';
 
